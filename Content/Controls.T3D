@@ -1,0 +1,860 @@
+Begin Object Class=/Script/Blutility.EditorUtilityWidgetBlueprint Name="Controls" ExportPath="/Script/Blutility.EditorUtilityWidgetBlueprint'/Game/Widgets/Controls.Controls'"
+   Begin Object Class=/Script/UMG.WidgetTree Name="WidgetTree" Archetype="/Script/UMG.WidgetTree'/Script/Blutility.Default__EditorUtilityWidgetBlueprint:WidgetTree'" ExportPath="/Script/UMG.WidgetTree'/Game/Widgets/Controls.Controls:WidgetTree'"
+      Begin Object Class=/Script/UMG.Border Name="Border_3" ExportPath="/Script/UMG.Border'/Game/Widgets/Controls.Controls:WidgetTree.Border_3'"
+         Begin Object Class=/Script/UMG.BorderSlot Name="BorderSlot_0" ExportPath="/Script/UMG.BorderSlot'/Game/Widgets/Controls.Controls:WidgetTree.Border_3.BorderSlot_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/Blutility.EditorUtilityScrollBox Name="EditorUtilityScrollBox_0" ExportPath="/Script/Blutility.EditorUtilityScrollBox'/Game/Widgets/Controls.Controls:WidgetTree.EditorUtilityScrollBox_0'"
+         Begin Object Class=/Script/UMG.ScrollBoxSlot Name="ScrollBoxSlot_4" ExportPath="/Script/UMG.ScrollBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.EditorUtilityScrollBox_0.ScrollBoxSlot_4'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.VerticalBox Name="VerticalBox_2" ExportPath="/Script/UMG.VerticalBox'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2'"
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_4" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_4'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_3" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_3'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_9" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_9'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_6" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_6'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_2'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_8" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_8'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_10" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_10'"
+         End Object
+         Begin Object Class=/Script/UMG.VerticalBoxSlot Name="VerticalBoxSlot_5" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_5'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_1" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_10" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_11" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_12" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_13" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_2" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_3" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_4" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Script/UMG.HorizontalBox Name="HorizontalBox_5" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5'"
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_1'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.HorizontalBoxSlot Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_2'"
+         End Object
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_1" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_1'"
+      End Object
+      Begin Object Class=/Script/UMG.Overlay Name="Overlay_0" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0'"
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0.OverlaySlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0.OverlaySlot_1'"
+         End Object
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_2" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_2'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_15" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_15'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_3" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_3'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_16" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_16'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_21" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_21'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_20" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_20'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_22" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_22'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_24" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_24'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_23" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_23'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_25" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_25'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_27" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_27'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_26" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_26'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_28" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_28'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_30" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_30'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_29" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_29'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_31" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_31'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_18" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_18'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_17" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_17'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_19" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_19'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_5" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_5'"
+      End Object
+      Begin Object Class=/Script/UMG.Overlay Name="Overlay_1" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1'"
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1.OverlaySlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1.OverlaySlot_1'"
+         End Object
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_6" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_6'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_8" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_8'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_7" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_7'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_9" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_9'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_11" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_11'"
+      End Object
+      Begin Object Class=/Script/UMG.Overlay Name="Overlay_2" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2'"
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2.OverlaySlot_0'"
+         End Object
+         Begin Object Class=/Script/UMG.OverlaySlot Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2.OverlaySlot_1'"
+         End Object
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_12" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_12'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock'"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_2" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock_2'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_4" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_4'"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock'"
+      End Object
+      Begin Object Class=/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C Name="WB_SimpleTextBlock_10" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_10'"
+      End Object
+      Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_1" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock_1'"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/Widgets/Controls.Controls:EventGraph'"
+   End Object
+   Begin Object Name="WidgetTree" ExportPath="/Script/UMG.WidgetTree'/Game/Widgets/Controls.Controls:WidgetTree'"
+      Begin Object Name="Border_3" ExportPath="/Script/UMG.Border'/Game/Widgets/Controls.Controls:WidgetTree.Border_3'"
+         Begin Object Name="BorderSlot_0" ExportPath="/Script/UMG.BorderSlot'/Game/Widgets/Controls.Controls:WidgetTree.Border_3.BorderSlot_0'"
+            Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+            Parent="/Script/UMG.Border'Controls:WidgetTree.Border_3'"
+            Content="/Script/Blutility.EditorUtilityScrollBox'Controls:WidgetTree.EditorUtilityScrollBox_0'"
+         End Object
+         Padding=(Left=0.000000,Top=0.000000,Right=0.000000,Bottom=0.000000)
+         BrushColor=(R=0.011765,G=0.011765,B=0.011765,A=1.000000)
+         Slots(0)="/Script/UMG.BorderSlot'BorderSlot_0'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="EditorUtilityScrollBox_0" ExportPath="/Script/Blutility.EditorUtilityScrollBox'/Game/Widgets/Controls.Controls:WidgetTree.EditorUtilityScrollBox_0'"
+         Begin Object Name="ScrollBoxSlot_4" ExportPath="/Script/UMG.ScrollBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.EditorUtilityScrollBox_0.ScrollBoxSlot_4'"
+            Parent="/Script/Blutility.EditorUtilityScrollBox'Controls:WidgetTree.EditorUtilityScrollBox_0'"
+            Content="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+         End Object
+         Slots(0)="/Script/UMG.ScrollBoxSlot'ScrollBoxSlot_4'"
+         Slot="/Script/UMG.BorderSlot'Controls:WidgetTree.Border_3.BorderSlot_0'"
+         bExpandedInDesigner=True
+         DisplayLabel="EditorUtilityScrollBox_0"
+      End Object
+      Begin Object Name="HorizontalBox" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox'"
+            Content="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_0'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_1'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_2'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_4'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="VerticalBox_2" ExportPath="/Script/UMG.VerticalBox'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2'"
+         Begin Object Name="VerticalBoxSlot_4" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_4'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_0" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_0'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_1'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_3" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_3'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_10'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_9" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_9'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_11'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_6" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_6'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_12'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_1" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_1'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_13'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_2" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_2'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_2'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_8" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_8'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_3'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_10" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_10'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_4'"
+         End Object
+         Begin Object Name="VerticalBoxSlot_5" ExportPath="/Script/UMG.VerticalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_5'"
+            Padding=(Top=1.000000)
+            Parent="/Script/UMG.VerticalBox'Controls:WidgetTree.VerticalBox_2'"
+            Content="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_5'"
+         End Object
+         Slots(0)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_0'"
+         Slots(1)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_2'"
+         Slots(2)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_3'"
+         Slots(3)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_1'"
+         Slots(4)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_4'"
+         Slots(5)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_8'"
+         Slots(6)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_6'"
+         Slots(7)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_9'"
+         Slots(8)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_10'"
+         Slots(9)="/Script/UMG.VerticalBoxSlot'VerticalBoxSlot_5'"
+         Slot="/Script/UMG.ScrollBoxSlot'Controls:WidgetTree.EditorUtilityScrollBox_0.ScrollBoxSlot_4'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_1" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_1'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_3'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_1'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_15'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_1'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_16'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_0'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_10" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_10'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_20'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_10'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_21'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_10'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_22'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_3'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_11" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_11'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_23'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_11'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_24'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_11'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_25'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_9'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_12" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_12'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_26'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_12'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_27'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_12'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_28'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_6'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_13" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_13'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_29'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_13'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_30'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_13'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_31'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_1'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_2" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_2'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_17'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_2'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_18'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_2'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_19'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_2'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_3" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_3'"
+            Content="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_1'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_3'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_5'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_3'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_6'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_8'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_4" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_4'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_7'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_4'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_8'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_4'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_9'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_10'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="HorizontalBox_5" ExportPath="/Script/UMG.HorizontalBox'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5'"
+         Begin Object Name="HorizontalBoxSlot_1" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_1'"
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_5'"
+            Content="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_2'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_0" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_0'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_5'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_11'"
+         End Object
+         Begin Object Name="HorizontalBoxSlot_2" ExportPath="/Script/UMG.HorizontalBoxSlot'/Game/Widgets/Controls.Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_2'"
+            Size=(SizeRule=Fill)
+            Padding=(Left=1.000000)
+            Parent="/Script/UMG.HorizontalBox'Controls:WidgetTree.HorizontalBox_5'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_12'"
+         End Object
+         Slots(0)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_1'"
+         Slots(1)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_0'"
+         Slots(2)="/Script/UMG.HorizontalBoxSlot'HorizontalBoxSlot_2'"
+         Slot="/Script/UMG.VerticalBoxSlot'Controls:WidgetTree.VerticalBox_2.VerticalBoxSlot_5'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_1" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_1'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "2A671FDF4053968D42A2E3ADEF1AE8CA", "Left Shift")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="Overlay_0" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0'"
+         Begin Object Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0.OverlaySlot_0'"
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_0'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock'"
+         End Object
+         Begin Object Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_0.OverlaySlot_1'"
+            Padding=(Right=10.000000)
+            HorizontalAlignment=HAlign_Right
+            VerticalAlignment=VAlign_Center
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_0'"
+            Content="/Script/UMG.TextBlock'Controls:WidgetTree.TextBlock_2'"
+         End Object
+         Slots(0)="/Script/UMG.OverlaySlot'OverlaySlot_0'"
+         Slots(1)="/Script/UMG.OverlaySlot'OverlaySlot_1'"
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_1'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_2" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_2'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "E1C64E284D440C921B655387E9C62AD7", "Left Bumper")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_15" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_15'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C4CB81F443F29746C2DE44A9FA3501B0", "Keyboard & Mouse")
+         TextAlignment=HAlign_Center
+         IsBold=True
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_3" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_3'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=""
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_16" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_16'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C3DAC6C64BD15D687101A1A637C1DDF8", "Controller")
+         TextAlignment=HAlign_Center
+         IsBold=True
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_21" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_21'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "A19E064E4A1B93304FA8DF99A13DD453", "Mouse X & Y")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_20" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_20'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C5B83BC242402BBE39C33AA1381C9BEA", "Camera")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_22" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_22'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "E0F335E14ABF69C04B90F5983CB8DA5B", "Right Thumbstick")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_10.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_24" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_24'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "A5F828A1435F76700725B39355E96035", "Middle Mouse Button")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_23" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_23'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "5283C5D74D44DBA4550E2396A4D7260E", "Toggle Rotation Mode")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_25" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_25'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "F88488B243CB69F0A7DE47A0FA069EB0", "Right Thumbstick Button")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_11.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_27" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_27'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "7CDA2FC748D7A2000A378C91E2895E74", "Spacebar")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_26" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_26'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "D39E303F40BDD97D714623B12A5E6404", "Jump / Traversal")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_28" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_28'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "A8F80B4143B1B1450E8CEF8C4EAAFF88", "A")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_12.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_30" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_30'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "647075B64BEF640913E2AAA80829F25D", "Left Ctrl")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_29" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_29'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C5639AA94010E72E15D2F1A022B89111", "Walk")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_31" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_31'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "BB366DBF455A76ABFF40D5B3DD741C47", "Right Bumper")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_13.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_18" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_18'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "72E2D424454F6DBCC9C12BA70DB1DF2A", "WSAD")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_17" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_17'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "FDE0C05243D1DF6D7E9D158282FC6C16", "Movement")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_19" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_19'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "61A3DA6B4243AE1B3973FABFBF1FA0A0", "Left Thumbstick")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_5" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_5'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "CA6852714C3E0568F2E0D690DDF9822F", "C")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="Overlay_1" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1'"
+         Begin Object Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1.OverlaySlot_0'"
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_1'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_4'"
+         End Object
+         Begin Object Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_1.OverlaySlot_1'"
+            Padding=(Right=10.000000)
+            HorizontalAlignment=HAlign_Right
+            VerticalAlignment=VAlign_Center
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_1'"
+            Content="/Script/UMG.TextBlock'Controls:WidgetTree.TextBlock'"
+         End Object
+         Slots(0)="/Script/UMG.OverlaySlot'OverlaySlot_0'"
+         Slots(1)="/Script/UMG.OverlaySlot'OverlaySlot_1'"
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_1'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_6" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_6'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "1509CD3647630E257D001E8E0F76E24F", "B")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_8" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_8'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "24CC736646A44BF4B3ECCAA87BF2F6EE", "Right Mouse Button")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_7" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_7'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "AEDA40D3494700DA9B3FAFA18CE2ED5B", "Aim (WIP)")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_1'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_9" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_9'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "48EA9E3643B6F5F4596616B1F46D3DAB", "Left Trigger")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_4.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_11" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_11'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "D0248F204B6618489BFC47854D7C0642", "Scroll Wheel")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="Overlay_2" ExportPath="/Script/UMG.Overlay'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2'"
+         Begin Object Name="OverlaySlot_0" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2.OverlaySlot_0'"
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_2'"
+            Content="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'Controls:WidgetTree.WB_SimpleTextBlock_10'"
+         End Object
+         Begin Object Name="OverlaySlot_1" ExportPath="/Script/UMG.OverlaySlot'/Game/Widgets/Controls.Controls:WidgetTree.Overlay_2.OverlaySlot_1'"
+            Padding=(Right=10.000000)
+            HorizontalAlignment=HAlign_Right
+            VerticalAlignment=VAlign_Center
+            Parent="/Script/UMG.Overlay'Controls:WidgetTree.Overlay_2'"
+            Content="/Script/UMG.TextBlock'Controls:WidgetTree.TextBlock_1'"
+         End Object
+         Slots(0)="/Script/UMG.OverlaySlot'OverlaySlot_0'"
+         Slots(1)="/Script/UMG.OverlaySlot'OverlaySlot_1'"
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_1'"
+         bExpandedInDesigner=True
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_12" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_12'"
+         BoxSize=(X=150.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "BFFC1CFB4CC2B6B165ADA1984ECA929C", "D-Pad Up / Down")
+         TextAlignment=HAlign_Center
+         Slot="/Script/UMG.HorizontalBoxSlot'Controls:WidgetTree.HorizontalBox_5.HorizontalBoxSlot_2'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="WB_SimpleTextBlock" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C1A1662043688D881281779731882DC6", "Sprint")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_0.OverlaySlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="TextBlock_2" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock_2'"
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "0D5045E04A6F8D704CC75B8E237FA3D4", "NEW!")
+         ColorAndOpacity=(SpecifiedColor=(R=0.666667,G=1.000000,B=0.000000,A=1.000000))
+         Font=(TypefaceFontName="Bold Italic",Size=9.000000)
+         ShadowColorAndOpacity=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+         Justification=Center
+         Margin=(Top=1.500000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_0.OverlaySlot_1'"
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_4" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_4'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "C694786A498DAB230DB6ADB61538F83C", "Crouch")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_1.OverlaySlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="TextBlock" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock'"
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "00752C1046345FDC78B3A0B14D57DEA7", "NEW!")
+         ColorAndOpacity=(SpecifiedColor=(R=0.666667,G=1.000000,B=0.000000,A=1.000000))
+         Font=(TypefaceFontName="Bold Italic",Size=9.000000)
+         ShadowColorAndOpacity=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+         Justification=Center
+         Margin=(Top=1.500000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_1.OverlaySlot_1'"
+      End Object
+      Begin Object Name="WB_SimpleTextBlock_10" ExportPath="/Game/Widgets/WidgetData/WB_SimpleTextBlock.WB_SimpleTextBlock_C'/Game/Widgets/Controls.Controls:WidgetTree.WB_SimpleTextBlock_10'"
+         BoxSize=(X=175.000000,Y=25.000000)
+         BoxColor=(R=0.017642,G=0.017642,B=0.017642,A=1.000000)
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "9CFB79D0480DBA4FB31389900A250459", "Change Camera Style")
+         TextPadding=(Left=22.000000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_2.OverlaySlot_0'"
+         bIsVariable=False
+      End Object
+      Begin Object Name="TextBlock_1" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/Controls.Controls:WidgetTree.TextBlock_1'"
+         Text=NSLOCTEXT("[69C72B0BD15B369E35811C8B07D267B9]", "00752C1046345FDC78B3A0B14D57DEA7", "NEW!")
+         ColorAndOpacity=(SpecifiedColor=(R=0.666667,G=1.000000,B=0.000000,A=1.000000))
+         Font=(TypefaceFontName="Bold Italic",Size=9.000000)
+         ShadowColorAndOpacity=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+         Justification=Center
+         Margin=(Top=1.500000)
+         Slot="/Script/UMG.OverlaySlot'Controls:WidgetTree.Overlay_2.OverlaySlot_1'"
+      End Object
+      RootWidget="/Script/UMG.Border'Border_3'"
+   End Object
+   Begin Object Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/Widgets/Controls.Controls:EventGraph'"
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      bAllowDeletion=False
+      GraphGuid=BDD6AD314A11EC5F7250BD8E446AC8B7
+   End Object
+   bIsEnabledInPIE=True
+   bIsEnabledInDebugging=True
+   WidgetVariableNameToGuidMap=(("Border_3", BF8961B086D33535ACBF190E3E75CCC0),("EditorUtilityScrollBox_0", 6938FFF0E81E3AB78318A5C5B2713D34),("HorizontalBox", 62D03246BC6634E3B3880ECAA7A4D23C),("VerticalBox_2", BB0D6F61708F34CB9E4737CDA8CF0FF9),("HorizontalBox_1", 3F31447ADB0F3A3DB23AD756E36994D4),("HorizontalBox_10", C39026D1D5733D18B28B04EF1F9F4A68),("HorizontalBox_11", FCA9FEB471493430AC31371740CC03AB),("HorizontalBox_12", F9237272B4953DC0818DA801AE8556BE),("HorizontalBox_13", 630BCA1D25E53826B36BBD734E999440),("HorizontalBox_2", 74598DAF3CA73CB58B1617F88BC44472),("HorizontalBox_3", 7D8FA035294A357D967D2A64BFFC0B01),("HorizontalBox_4", 6869D6EF6B18377097B8830E4CC45C3E),("HorizontalBox_5", 2DA8DC9A3E2D3FD1A1283CBE9B191F5E),("WB_SimpleTextBlock_1", 842DA499B65931C48545232F6AE03C81),("Overlay_0", 5C6FB96CB5F230959CC3EB4B6432F570),("WB_SimpleTextBlock_2", 81144450938D32179AA86D7F3B6C8593),("WB_SimpleTextBlock_15", 14F95DA85305353AAC2FA608405ACC5B),("WB_SimpleTextBlock_3", D587F58E264F315BB7955811A2BB758D),("WB_SimpleTextBlock_16", 8F8D803C2B3036748382D0C831A357DC),("WB_SimpleTextBlock_21", D2D96A2362163802A4AE12CDB74138E6),("WB_SimpleTextBlock_20", 370AD83747BE3683B9B6CA2EDF07E31C),("WB_SimpleTextBlock_22", 6EF8D21D64B1367AA348351295D35DE8),("WB_SimpleTextBlock_24", C31BB718CE7832299ED2A18A92DB9BC4),("WB_SimpleTextBlock_23", 7770C4450314321084C518704DA1776E),("WB_SimpleTextBlock_25", FB8A1312F88E318DB6A2D1F9C6E43246),("WB_SimpleTextBlock_27", 6118947AF0CD3899A4CE383235C92EAC),("WB_SimpleTextBlock_26", 0BB3EAE0A3E438A69A6D5AC4203EFC0D),("WB_SimpleTextBlock_28", 38F127ED62EA372AAA46D5EB1A9953E2),("WB_SimpleTextBlock_30", 4D3827EC7EBB320D92BB60770F0D2B5C),("WB_SimpleTextBlock_29", 90A710DFB8AC315C8CB3858D13F8E7F9),("WB_SimpleTextBlock_31", EA92E5B9D8083FEEAAD66A7FCED1A3F4),("WB_SimpleTextBlock_18", 5280E764760B38B296290B3AC0149E33),("WB_SimpleTextBlock_17", 1FAFAEE4FD3735D1B62D657A3CCD8080),("WB_SimpleTextBlock_19", 63885B93CD7532E1BBC82692F6A5FEF6),("WB_SimpleTextBlock_5", 13EB89A1CEE63BE6A80A511F3E236533),("Overlay_1", B3EC8373B8A532B48C1E8142B787355D),("WB_SimpleTextBlock_6", 514F5A8895E33E1F917F5821EBC92990),("WB_SimpleTextBlock_8", FB35C09C81573775AE0A563FF8AA46B6),("WB_SimpleTextBlock_7", 2CBC6D01DB703E3DA58328042E685AB9),("WB_SimpleTextBlock_9", 0C6F3D6363313C6E9E417656E15A72EC),("WB_SimpleTextBlock_11", 2C116883C64F3BD3A841432A57CF7ED7),("Overlay_2", 6BFDF0F757963E4EBE1D6994568F66A8),("WB_SimpleTextBlock_12", D24764B8859A348AAFF1672B7CE31C5A),("WB_SimpleTextBlock", 1DFA12E3053531ADA51450B3BFA71505),("TextBlock_2", 2CB1D7AF9B703A3B89657C082077BE4B),("WB_SimpleTextBlock_4", BF81EA0A5A103BF0AFC71A1D3CB7DA54),("TextBlock", 5D4C9A6224253A278F2B4367D68BA0A6),("WB_SimpleTextBlock_10", DC188533E63636BEB7DC782B1C22ED4F),("TextBlock_1", 2F5EBC7F03AE3FD7B21050A9274B4CCF))
+   TickPrediction=WillTick
+   TickPredictionReason="Native"
+   WidgetTree="WidgetTree"
+   ParentClass="/Script/CoreUObject.Class'/Script/Blutility.EditorUtilityWidget'"
+   BlueprintSystemVersion=2
+   UbergraphPages(0)="/Script/Engine.EdGraph'EventGraph'"
+   CategorySorting(0)="Event Graph"
+   CategorySorting(1)=""
+   CategorySorting(2)="Default"
+   CategorySorting(3)="Controls"
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/Widgets/Controls.Controls:EventGraph",SavedViewOffset=(X=-12447.653320,Y=-4666.901367),SavedZoomAmount=0.100000)
+   GeneratedClass="/Script/UMG.WidgetBlueprintGeneratedClass'Controls_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=9DE2F3BF44DE7B82018E7AB9C30B782F
+End Object
